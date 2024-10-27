@@ -1,0 +1,158 @@
+[
+    {
+        "bookName": "Emotional Magiic",
+        "coverPhoto": "./images/BookCovers/1",
+        "price": 214.99,
+        "releaseDate": "2021-05-15",
+        "author": {
+            "name": "Alice Faulkner",
+            "bio": "Alice Faulkner is a bestselling author known for her intricate plot twists and suspenseful storytelling.",
+            "birthDate": "1978-11-05",
+            "image": "./images/Authors/1"
+        },
+        "description": "A gripping tale of discovery and the supernatural that will keep you guessing until the last page."
+    },
+    {
+        "bookName": "Deeper Light",
+        "coverPhoto": "./images/BookCovers/2",
+        "price": 319.99,
+        "releaseDate": "2019-03-22",
+        "author": {
+            "name": "Brian Keene",
+            "bio": "Brian Keene is an award-winning author of science fiction and speculative fiction, exploring the unknown with an engaging voice.",
+            "birthDate": "1965-02-18",
+            "image": "./images/Authors/2"
+        },
+        "description": "A journey into distant worlds and hidden realms that explores what it means to be human."
+    },
+    {
+        "bookName": "Noestin",
+        "coverPhoto": "./images/BookCovers/3",
+        "price": 412.99,
+        "releaseDate": "2020-07-10",
+        "author": {
+            "name": "Catherine Miles",
+            "bio": "Catherine Miles is a contemporary author and poet whose work delves into themes of transformation and resilience.",
+            "birthDate": "1982-06-03",
+            "image": "./images/Authors/3"
+        },
+        "description": "An inspiring story about overcoming life's challenges and finding peace in unexpected places."
+    },
+    {
+        "bookName": "Magic Vecrey",
+        "coverPhoto": "./images/BookCovers/4",
+        "price": 116.50,
+        "releaseDate": "2021-09-12",
+        "author": {
+            "name": "David Stone",
+            "bio": "David Stone is a thriller writer with a knack for keeping readers on edge, combining mystery with dark realism.",
+            "birthDate": "1974-08-24",
+            "image": "./images/Authors/4"
+        },
+        "description": "A murder mystery that spirals into a thrilling psychological exploration of memory and identity."
+    },
+    {
+        "bookName": "Divine",
+        "coverPhoto": "./images/BookCovers/5",
+        "price": 321.99,
+        "releaseDate": "2018-02-01",
+        "author": {
+            "name": "Emily Harrington",
+            "bio": "Emily Harrington's adventures and expeditions around the world fuel her work, which explores survival and the natural world.",
+            "birthDate": "1986-04-14",
+            "image": "./images/Authors/5"
+        },
+        "description": "An exhilarating tale of survival and courage set against the harsh, unforgiving landscape of the Alaskan wilderness."
+    },
+    {
+        "bookName": "City of Dreams",
+        "coverPhoto": "./images/BookCovers/6",
+        "price": 413.75,
+        "releaseDate": "2020-11-30",
+        "author": {
+            "name": "Franklin Yang",
+            "bio": "Franklin Yang brings his passion for history and urban landscapes to life in his narrative-driven fiction.",
+            "birthDate": "1990-12-12",
+            "image": "./images/Authors/6"
+        },
+        "description": "A richly woven story of ambition, hope, and betrayal in a city that never sleeps."
+    },
+    {
+        "bookName": "Under the Moonlight",
+        "coverPhoto": "./images/BookCovers/7",
+        "price": 518.22,
+        "releaseDate": "2022-04-15",
+        "author": {
+            "name": "Georgia Price",
+            "bio": "Georgia Price is an acclaimed romance novelist known for her character-driven tales of love, loss, and redemption.",
+            "birthDate": "1989-01-08",
+            "image": "./images/Authors/7"
+        },
+        "description": "A love story that unfolds under the stars, exploring the mysteries of the heart and the courage to open up to new beginnings."
+    },
+    {
+        "bookName": "The Hidden Path",
+        "coverPhoto": "./images/BookCovers/8",
+        "price": 155.99,
+        "releaseDate": "2019-08-17",
+        "author": {
+            "name": "Henry Beaumont",
+            "bio": "Henry Beaumont writes thought-provoking fantasy novels that delve into the spiritual and metaphysical.",
+            "birthDate": "1975-11-19",
+            "image": "./images/Authors/8"
+        },
+        "description": "A journey through mystical realms, where every choice leads to unknown possibilities and hidden truths."
+    },
+    {
+        "bookName": "Modern Chic",
+        "coverPhoto": "./images/BookCovers/9",
+        "price": 917.50,
+        "releaseDate": "2021-12-02",
+        "author": {
+            "name": "Isabel Greene",
+            "bio": "Isabel Greene combines her fascination with technology and futurism with a deft hand at storytelling.",
+            "birthDate": "1992-09-09",
+            "image": "./images/Authors/9"
+        },
+        "description": "A sci-fi thriller that questions the boundaries of reality and the dangers of advanced technology."
+    },
+    {
+        "bookName": "Sacred Light",
+        "coverPhoto": "./images/BookCovers/10",
+        "price": 615.25,
+        "releaseDate": "2023-01-05",
+        "author": {
+            "name": "John Carter",
+            "bio": "John Carter's novels often explore themes of nature, wildlife, and the human connection to the wilderness.",
+            "birthDate": "1984-05-27",
+            "image": "./images/Authors/10"
+        },
+        "description": "A heartwarming story about finding home and family in the unlikeliest of places."
+    },
+    {
+        "bookName": "Deep Focus",
+        "coverPhoto": "./images/BookCovers/11",
+        "price": 122.50,
+        "releaseDate": "2017-06-14",
+        "author": {
+            "name": "Kayla Summers",
+            "bio": "Kayla Summers writes historical fiction that brings ancient civilizations and lost cultures to vivid life.",
+            "birthDate": "1973-03-30",
+            "image": "./images/Authors/11"
+        },
+        "description": "An epic tale of love, betrayal, and ambition set against the backdrop of an ancient empire."
+    },
+    {
+        "bookName": "Beyond the Horizon",
+        "coverPhoto": "./images/BookCovers/12",
+        "price": 219.75,
+        "releaseDate": "2022-10-20",
+        "author": {
+            "name": "Laura Finch",
+            "bio": "Laura Finch is a travel writer and novelist who draws inspiration from her worldwide adventures.",
+            "birthDate": "1980-07-15",
+            "image": "./images/Authors/12"
+        },
+        "description": "A story of wanderlust and self-discovery that takes readers on a journey through the world's most breathtaking landscapes."
+    }
+]
